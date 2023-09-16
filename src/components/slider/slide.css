@@ -1,0 +1,13 @@
+.slide img {
+  width: 100vw;
+  height: 50%;
+}
+.slide {
+  margin-top: 9vh;
+}
+.slide .slick-prev:before,
+.slide .slick-next:before {
+  border: none;
+  color: transparent;
+  font-size: 20px;
+}
